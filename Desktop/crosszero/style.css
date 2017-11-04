@@ -1,0 +1,33 @@
+#canvas{
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	top: 10%;
+}
+
+.block {
+	width: 100px;
+	float: left;
+	border: 1px solid red; 
+	box-sizing: border-box;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 80px;
+	font-family: cursive;
+}
+
+/*.clear {
+	width: 300px;
+    height: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 80px;
+	font-family: cursive;
+}
+*/
+
+
+
